@@ -1,0 +1,27 @@
+p {
+  background-color: aquamarine;
+  display: block;
+  font-size: larger;
+  padding: 12px;
+}
+input {
+  /* thông số 1: padding trên dưới
+      thông số 2: padding trái phải */
+  padding: 6px 12px;
+  font-size: 25px;
+  width: calc(100%-310px);
+}
+label {
+  width: 150px;
+  display: inline-block;
+}
+div {
+  margin: 30px;
+}
+button {
+  background-color: #22c55e;
+  color: white;
+  padding: 12px 16px;
+  font-size: 20px;
+  border-radius: 0cap;
+}
